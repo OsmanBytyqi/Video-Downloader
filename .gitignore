@@ -1,2 +1,3 @@
-env/
-venv/
+# ingore virtual-environments
+   env/
+   venv/
